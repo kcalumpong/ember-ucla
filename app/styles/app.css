@@ -1,0 +1,46 @@
+.container {
+    /* display: flex; */
+}
+.banner {
+    text-align: center;
+    padding: 1px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    font-family: Proxima Nova;
+    background-color: #FFBF00;
+    color: #1e4b87;
+}
+
+.logo {
+    display: flex;
+    background-color: #1e4b87;
+    color: #ffffff;
+    padding-left: 150px;
+}
+
+.menu {
+    display: block;
+    border-bottom: #1e4b87;
+    border-bottom-style: solid;
+    border-width: 1px;
+    padding: 20px;
+}
+
+.menu a {
+    padding-right: 15px;
+    color: black;
+    text-decoration: none;
+    font-family: Proxima Nova;
+}
+
+.hero {
+    background-image: url('https://media-exp3.licdn.com/dms/image/C561BAQGqbS-7jRuvbQ/company-background_10000/0/1579888375647?e=2159024400&v=beta&t=C6_CxPA8dJeR4hKwbn-PPk8cXavu5Ka4IkvuKKj4vJM');
+    height: 18rem;
+    opacity: 90%;
+    color: #ffffff;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
