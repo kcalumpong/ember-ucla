@@ -1,7 +1,3 @@
-ul li{
-    list-style-type: none; 
-}
-
 .container {
     /* display: flex; */
 }
@@ -48,10 +44,3 @@ ul li{
     justify-content: center;
     align-items: center;
 }
-
-.weather-container {
-    background-color: rgb(235, 239, 252);
-    width: 30%;
-    padding: 50px;
-}
-
